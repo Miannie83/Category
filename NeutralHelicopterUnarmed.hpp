@@ -1,37 +1,37 @@
 class Category_519 {
 	class Mi17_Civilian_DZ {
 		type = "trade_any_vehicle";
-		buy[] = {2,"ItemBriefcase100oz"};
-		sell[] = {1,"ItemBriefcase100oz"};
+		buy[] = {200000,"Coins"};
+		sell[] = {50000,"Coins"};
 	};
 	class AH6X_DZ {
 		type = "trade_any_vehicle";
-		buy[] = {6,"ItemGoldBar10oz"};
-		sell[] = {3,"ItemGoldBar10oz"};
+		buy[] = {60000,"Coins"};
+		sell[] = {15000,"Coins"};
 	};
 	class MH6J_DZ {
 		type = "trade_any_vehicle";
-		buy[] = {8,"ItemGoldBar10oz"};
-		sell[] = {4,"ItemGoldBar10oz"};
+		buy[] = {80000,"Coins"};
+		sell[] = {20000,"Coins"};
 	};
 	class CSJ_GyroC {
 		type = "trade_any_vehicle";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {2,"ItemGoldBar"};
+		buy[] = {4000,"Coins"};
+		sell[] = {1000,"Coins"};
 	};
 	class CSJ_GyroCover {
 		type = "trade_any_vehicle";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {2,"ItemGoldBar"};
+		buy[] = {4000,"Coins"};
+		sell[] = {1000,"Coins"};
 	};
 	class CSJ_GyroP {
 		type = "trade_any_vehicle";
-		buy[] = {5,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		buy[] = {5000,"Coins"};
+		sell[] = {1250,"Coins"};
 	};
 	class BAF_Merlin_DZE {
 		type = "trade_any_vehicle";
-		buy[] = {2,"ItemBriefcase100oz"};
-		sell[] = {1,"ItemBriefcase100oz"};
+		buy[] = {200000,"Coins"};
+		sell[] = {50000,"Coins"};
 	};
 };
