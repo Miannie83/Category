@@ -1,111 +1,111 @@
 class Category_684 {
 	class ItemSodaCoke {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {20,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemSodaPepsi {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {20,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemSodaMdew {
 		type = "trade_items";
-		buy[] = {6,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		buy[] = {60,"Coins"};
+		sell[] = {30,"Coins"};
 	};
 	class ItemSodaR4z0r {
 		type = "trade_items";
-		buy[] = {6,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		buy[] = {60,"Coins"};
+		sell[] = {30,"Coins"};
 	};
 	class ItemWaterbottleUnfilled {
 		type = "trade_items";
-		buy[] = {3,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {30,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemSodaRbull {
 		type = "trade_items";
-		buy[] = {6,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		buy[] = {60,"Coins"};
+		sell[] = {30,"Coins"};
 	};
 	class ItemSodaOrangeSherbet {
 		type = "trade_items";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {2,"ItemGoldBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 };
 class Category_498 {
 	class ItemSodaCoke {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {20,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemSodaPepsi {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {20,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemSodaMdew {
 		type = "trade_items";
-		buy[] = {6,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		buy[] = {60,"Coins"};
+		sell[] = {30,"Coins"};
 	};
 	class ItemSodaR4z0r {
 		type = "trade_items";
-		buy[] = {6,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		buy[] = {60,"Coins"};
+		sell[] = {30,"Coins"};
 	};
 	class ItemWaterbottleUnfilled {
 		type = "trade_items";
-		buy[] = {3,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {30,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemSodaRbull {
 		type = "trade_items";
-		buy[] = {6,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		buy[] = {60,"Coins"};
+		sell[] = {30,"Coins"};
 	};
 	class ItemSodaOrangeSherbet {
 		type = "trade_items";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {2,"ItemGoldBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 };
 class Category_633 {
 	class ItemSodaCoke {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {20,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemSodaPepsi {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {20,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemSodaMdew {
 		type = "trade_items";
-		buy[] = {6,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		buy[] = {60,"Coins"};
+		sell[] = {30,"Coins"};
 	};
 	class ItemSodaR4z0r {
 		type = "trade_items";
-		buy[] = {6,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		buy[] = {60,"Coins"};
+		sell[] = {30,"Coins"};
 	};
 	class ItemWaterbottleUnfilled {
 		type = "trade_items";
-		buy[] = {3,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {30,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemSodaRbull {
 		type = "trade_items";
-		buy[] = {6,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		buy[] = {60,"Coins"};
+		sell[] = {30,"Coins"};
 	};
 	class ItemSodaOrangeSherbet {
 		type = "trade_items";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {2,"ItemGoldBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 };

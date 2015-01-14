@@ -1,126 +1,126 @@
 class Category_686 {
 	class FoodbaconCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemSilverBar"};
-		sell[] = {2,"ItemSilverBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class FoodbeefCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemSilverBar"};
-		sell[] = {2,"ItemSilverBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class FoodchickenCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemSilverBar"};
-		sell[] = {2,"ItemSilverBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class FoodmuttonCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemSilverBar"};
-		sell[] = {2,"ItemSilverBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class FoodrabbitCooked {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar10oz"};
-		sell[] = {1,"ItemSilverBar10oz"};
+		buy[] = {20,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemTroutCooked {
 		type = "trade_items";
-		buy[] = {2,"ItemGoldBar"};
-		sell[] = {1,"ItemSilverBar10oz"};
+		buy[] = {20,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemSeaBassCooked {
 		type = "trade_items";
-		buy[] = {3,"ItemGoldBar"};
-		sell[] = {2,"ItemSilverBar10oz"};
+		buy[] = {30,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class ItemTunaCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 };
 class Category_580 {
 	class FoodbaconCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemSilverBar"};
-		sell[] = {2,"ItemSilverBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class FoodbeefCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemSilverBar"};
-		sell[] = {2,"ItemSilverBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class FoodchickenCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemSilverBar"};
-		sell[] = {2,"ItemSilverBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class FoodmuttonCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemSilverBar"};
-		sell[] = {2,"ItemSilverBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class FoodrabbitCooked {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar10oz"};
-		sell[] = {1,"ItemSilverBar10oz"};
+		buy[] = {20,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemTroutCooked {
 		type = "trade_items";
-		buy[] = {2,"ItemGoldBar"};
-		sell[] = {1,"ItemSilverBar10oz"};
+		buy[] = {20,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemSeaBassCooked {
 		type = "trade_items";
-		buy[] = {3,"ItemGoldBar"};
-		sell[] = {2,"ItemSilverBar10oz"};
+		buy[] = {30,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class ItemTunaCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 };
 class Category_634 {
 	class FoodbaconCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemSilverBar"};
-		sell[] = {2,"ItemSilverBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class FoodbeefCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemSilverBar"};
-		sell[] = {2,"ItemSilverBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class FoodchickenCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemSilverBar"};
-		sell[] = {2,"ItemSilverBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class FoodmuttonCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemSilverBar"};
-		sell[] = {2,"ItemSilverBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class FoodrabbitCooked {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar10oz"};
-		sell[] = {1,"ItemSilverBar10oz"};
+		buy[] = {20,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemTroutCooked {
 		type = "trade_items";
-		buy[] = {2,"ItemGoldBar"};
-		sell[] = {1,"ItemSilverBar10oz"};
+		buy[] = {20,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 	class ItemSeaBassCooked {
 		type = "trade_items";
-		buy[] = {3,"ItemGoldBar"};
-		sell[] = {2,"ItemSilverBar10oz"};
+		buy[] = {30,"Coins"};
+		sell[] = {20,"Coins"};
 	};
 	class ItemTunaCooked {
 		type = "trade_items";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
+		buy[] = {40,"Coins"};
+		sell[] = {10,"Coins"};
 	};
 };

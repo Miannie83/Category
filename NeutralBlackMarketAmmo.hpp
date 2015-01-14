@@ -1,77 +1,77 @@
 class Category_527 {
 	class 20Rnd_9x39_SP5_VSS {
 		type = "trade_items";
-		buy[] = {3,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
+		buy[] = {3000,"Coins"};
+		sell[] = {375,"Coins"};
 	};
 	class 8Rnd_B_Beneli_74Slug {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {200,"ItemSilverBar"};
+		sell[] = {50,"ItemSilverBar"};
 	};
 	class 20Rnd_762x51_SB_SCAR {
 		type = "trade_items";
-		buy[] = {1,"ItemGoldBar"};
-		sell[] = {5,"ItemSilverBar10oz"};
+		buy[] = {1000,"Coins"};
+		sell[] = {125,"Coins"};
 	};
 	class 8Rnd_B_Beneli_Pellets {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {200,"Coins"};
+		sell[] = {25,"Coins"};
 	};
 	class 8Rnd_B_Saiga12_74Slug {
 		type = "trade_items";
-		buy[] = {5,"ItemSilverBar"};
-		sell[] = {3,"ItemSilverBar"};
+		buy[] = {500,"Coins"};
+		sell[] = {63,"Coins"};
 	};
 	class 8Rnd_B_Saiga12_Pellets {
 		type = "trade_items";
-		buy[] = {5,"ItemSilverBar"};
-		sell[] = {3,"ItemSilverBar"};
+		buy[] = {500,"Coins"};
+		sell[] = {63,"Coins"};
 	};
 	class 20Rnd_B_765x17_Ball {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar10oz"};
-		sell[] = {1,"ItemSilverBar10oz"};
+		buy[] = {200,"Coins"};
+		sell[] = {25,"Coins"};
 	};
 	class 10Rnd_762x54_SVD {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar10oz"};
-		sell[] = {1,"ItemSilverBar10oz"};
+		buy[] = {500,"Coins"};
+		sell[] = {63,"Coins"};
 	};
 	class 5Rnd_762x51_M24 {
 		type = "trade_items";
-		buy[] = {1,"ItemSilverBar10oz"};
-		sell[] = {5,"ItemSilverBar"};
+		buy[] = {600,"Coins"};
+		sell[] = {75,"Coins"};
 	};
 	class 30Rnd_556x45_Stanag {
 		type = "trade_items";
-		buy[] = {5,"ItemSilverBar"};
-		sell[] = {3,"ItemSilverBar"};
+		buy[] = {500,"Coins"};
+		sell[] = {63,"Coins"};
 	};
 	class 20Rnd_762x51_FNFAL {
 		type = "trade_items";
-		buy[] = {4,"ItemSilverBar10oz"};
-		sell[] = {2,"ItemSilverBar10oz"};
+		buy[] = {400,"Coins"};
+		sell[] = {50,"Coins"};
 	};
 	class 100Rnd_556x45_BetaCMag {
 		type = "trade_items";
-		buy[] = {6,"ItemSilverBar10oz"};
-		sell[] = {3,"ItemSilverBar10oz"};
+		buy[] = {600,"Coins"};
+		sell[] = {75,"Coins"};
 	};
 	class 75Rnd_545x39_RPK {
 		type = "trade_items";
-		buy[] = {3,"ItemSilverBar10oz"};
-		sell[] = {1,"ItemSilverBar10oz"};
+		buy[] = {300,"Coins"};
+		sell[] = {25,"Coins"};
 	};
 	class 64Rnd_9x19_Bizon {
 		type = "trade_items";
-		buy[] = {1,"ItemSilverBar10oz"};
-		sell[] = {5,"ItemSilverBar"};
+		buy[] = {100,"Coins"};
+		sell[] = {15,"Coins"};
 	};
 	class 5Rnd_127x108_KSVK {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar10oz"};
-		sell[] = {1,"ItemSilverBar10oz"};
+		buy[] = {5000,"Coins"};
+		sell[] = {250,"Coins"};
 	};
 };

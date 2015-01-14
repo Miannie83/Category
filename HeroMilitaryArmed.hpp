@@ -1,47 +1,47 @@
 class Category_562 {
 	class HMMWV_M998A2_SOV_DES_EP1_DZE {
 		type = "trade_any_vehicle";
-		buy[] = {1,"ItemBriefcase100oz"};
-		sell[] = {5,"ItemGoldBar10oz"};
+		buy[] = {100000,"Coins"};
+		sell[] = {25000,"Coins"};
 	};
 	class HMMWV_M1151_M2_CZ_DES_EP1_DZE {
 		type = "trade_any_vehicle";
-		buy[] = {4,"ItemBriefcase100oz"};
-		sell[] = {1,"ItemBriefcase100oz"};
+		buy[] = {400000,"Coins"};
+		sell[] = {50000,"Coins"};
 	};
 	class LandRover_Special_CZ_EP1_DZE {
 		type = "trade_any_vehicle";
-		buy[] = {1,"ItemBriefcase100oz"};
-		sell[] = {5,"ItemGoldBar10oz"};
+		buy[] = {100000,"Coins"};
+		sell[] = {25000,"Coins"};
 	};
 	class LandRover_MG_TK_EP1_DZE {
 		type = "trade_any_vehicle";
-		buy[] = {6,"ItemGoldBar10oz"};
-		sell[] = {3,"ItemGoldBar10oz"};
+		buy[] = {60000,"Coins"};
+		sell[] = {15000,"Coins"};
 	};
 	class UAZ_MG_TK_EP1_DZE {
 		type = "trade_any_vehicle";
-		buy[] = {6,"ItemGoldBar10oz"};
-		sell[] = {3,"ItemGoldBar10oz"};
+		buy[] = {60000,"Coins"};
+		sell[] = {15000,"Coins"};
 	};
 	class GAZ_Vodnik_DZE {
 		type = "trade_any_vehicle";
-		buy[] = {2,"ItemBriefcase100oz"};
-		sell[] = {1,"ItemBriefcase100oz"};
+		buy[] = {200000,"Coins"};
+		sell[] = {25000,"Coins"};
 	};
 	class BTR90_HQ_DZE {
 		type = "trade_any_vehicle";
-		buy[] = {11,"ItemBriefcase100oz"};
-		sell[] = {3,"ItemBriefcase100oz"};
+		buy[] = {4000000,"Coins"};
+		sell[] = {1000000,"Coins"};
 	};
 	class LAV25_HQ_DZE {
 		type = "trade_any_vehicle";
-		buy[] = {8,"ItemBriefcase100oz"};
-		sell[] = {3,"ItemBriefcase100oz"};
+		buy[] = {8000000,"Coins"};
+		sell[] = {3500000,"Coins"};
 	};
 	class HMMWV_MK19_DES_EP1{
 		type = "trade_any_vehicle";
-		buy[] = {1,"ItemBriefcase100oz"};
-		sell[] = {5,"ItemGoldBar10oz"};
+		buy[] = {100000,"Coins"};
+		sell[] = {25000,"Coins"};
 	};
 };
