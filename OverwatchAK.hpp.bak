@@ -1,4 +1,4 @@
-class Category_1002 {
+class Category_1003 {
 	class vil_ak12 {
 	type = "trade_weapons";
 	buy[] = {10000,"Coins"};

@@ -1,4 +1,4 @@
-class Category_1015 {
+class Category_1013 {
 class Civcar {
 type = "trade_any_vehicle";
 buy[] = {30000,"Coins"};

@@ -34,9 +34,4 @@ class Category_519 {
 		buy[] = {200000,"Coins"};
 		sell[] = {50000,"Coins"};
 	};
-	class CH53_DZE {
-		type = "trade_any_vehicle";
-		buy[] ={500000,"Coins"};
-		sell[] ={100000,"Coins"};
-	};
 };

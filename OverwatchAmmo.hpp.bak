@@ -1,4 +1,4 @@
-class Category_1013 {
+class Category_1006 {
 	class USSR_5Rnd_408 {
 	type = "trade_items";
 	buy[] = {20000,"Coins"};

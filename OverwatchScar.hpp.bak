@@ -1,4 +1,4 @@
-class Category_1004 {
+class Category_1011 {
 	class SCAR_H_CQC_CCO {
 	type = "trade_weapons";
 	buy[] = {20000,"Coins"};

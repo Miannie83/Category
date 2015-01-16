@@ -1,4 +1,4 @@
-class Category_1012 {
+class Category_1016 {
 	class CVPI_Patrol {
 	type = "trade_any_vehicle";
 	buy[] = {100000,"Coins"};
